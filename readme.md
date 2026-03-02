@@ -28,7 +28,7 @@ $ whoami
 ```bash
 $ cat /etc/current_mission
 ```
-> **Master 1 @ ESGI** — alternance program at **ALT-ECOM**, Paris.
+> **Master 1 @ ESGI** — alternance program at **ALT-ECOM**, Lille.
 > Migrating, automating, and occasionally debugging DNS at 2am.
 
 ---
@@ -39,8 +39,7 @@ $ ls -la ./projects/
 
 | Status | Project | Stack | Description |
 |--------|---------|-------|-------------|
-| 🟢 WIP | **ADEF Migration** | .NET 8, SQL Server, Docker | Modernisation d'app legacy de certification |
-| 🟢 WIP | **CI/CD Pipelines** | Jenkins, GitLab, Docker | Full GitFlow automation at ALT-ECOM |
+| 🟢 WIP | **CI/CD Pipelines** | Jenkins, GitLab, Docker | Full GitFlow automation|
 | 🟢 WIP | **WandrGlow** | Android, Kotlin | Geolocation-based mobile game |
 | 🟡 Maintained | **Minecraft Server** | Java, custom plugins | 10+ years of block-placing expertise |
 | 🟡 Maintained | **Home Server** | Linux, Docker, WireGuard | Self-hosted infra, because why not |
